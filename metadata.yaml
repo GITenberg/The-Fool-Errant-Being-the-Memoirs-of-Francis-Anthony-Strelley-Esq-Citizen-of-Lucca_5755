@@ -1,0 +1,25 @@
+_repo: The-Fool-Errant-Being-the-Memoirs-of-Francis-Anthony-Strelley-Esq-Citizen-of-Lucca_5755
+creator:
+  author:
+    agent_name: Hewlett, Maurice
+    alias: Hewlett, Maurice Henry
+    birthdate: 1861
+    deathdate: 1923
+    gutenberg_agent_id: '1864'
+    url: http://www.gutenberg.org/2009/agents/1864
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: "The Fool Errant\r\nBeing the Memoirs of Francis-Anthony Strelley, Esq., Citizen\
+  \ of Lucca"
+url: http://www.gutenberg.org/ebooks/5755
