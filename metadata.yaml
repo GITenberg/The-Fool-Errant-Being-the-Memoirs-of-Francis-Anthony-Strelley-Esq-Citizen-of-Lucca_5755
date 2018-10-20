@@ -1,5 +1,5 @@
 _repo: The-Fool-Errant-Being-the-Memoirs-of-Francis-Anthony-Strelley-Esq-Citizen-of-Lucca_5755
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Historical fiction'
 - !lcc 'PR'
+- GITenberg
 title: "The Fool Errant\r\nBeing the Memoirs of Francis-Anthony Strelley, Esq., Citizen\
   \ of Lucca"
 url: http://www.gutenberg.org/ebooks/5755
